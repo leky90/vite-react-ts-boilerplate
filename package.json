@@ -8,7 +8,7 @@
     "preview": "vite preview",
     "prepare": "husky install",
     "test": "jest",
-    "lint": "eslint src --max-warnings=0"
+    "lint": "eslint"
   },
   "dependencies": {
     "react": "^18.0.0",
