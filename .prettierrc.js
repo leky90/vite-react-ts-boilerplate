@@ -1,10 +1,10 @@
 module.exports = {
   printWidth: 120,
-  proseWrap: 'preserve',
+  proseWrap: "preserve",
   semi: false,
   singleQuote: true,
   useTabs: false,
   tabWidth: 2,
-  arrowParens: 'avoid',
-  trailingComma: 'es5',
-};
+  arrowParens: "avoid",
+  trailingComma: "es5",
+}
