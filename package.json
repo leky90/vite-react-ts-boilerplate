@@ -29,5 +29,10 @@
     "src/**/*.{js,jsx,ts,tsx,json}": [
       "eslint --max-warnings=0"
     ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
